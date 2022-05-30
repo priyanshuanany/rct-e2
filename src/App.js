@@ -24,7 +24,7 @@ const App = () => {
   useEffect(()=>{
     fetch("http://localhost:8080/")
   })
-  return <div>{/* TODO: Code here */}</div>;
+  return <div></div>;
 };
 
 export default App;
